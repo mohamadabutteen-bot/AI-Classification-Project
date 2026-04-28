@@ -1,0 +1,25 @@
+# 🤖 AI Classification Project
+
+## 📌 Overview
+This project focuses on building and evaluating machine learning models for classification tasks.  
+The goal is to analyze data, train models, and compare their performance using different techniques.
+
+---
+
+## 🚀 Features
+- 📊 Data preprocessing and cleaning  
+- 🧠 Training multiple machine learning models  
+- 📈 Performance evaluation and comparison  
+- 📉 Visualization of results (accuracy, loss, curves)  
+
+---
+
+## 🛠️ Technologies Used
+- Python 🐍  
+- NumPy & Pandas  
+- Matplotlib / Seaborn  
+- Scikit-learn  
+
+---
+
+## 📂 Project Structure
